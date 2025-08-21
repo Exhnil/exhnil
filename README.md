@@ -1,13 +1,22 @@
-Hi, I'm Gregory
+<h1>Hi, I'm Gregory</h1>
 
-Summary :
+### Summary :
 
-My name is Gregory. A software engineer from France.
-Usually working on web applications but able to take on other type of development.
-Always excited to learn new technologies.
+I'm Gregory, a software engineer from France.<br/>
+I mostly work on web applications, but I'm also open to other areas of development.<br/>
+I enjoy trying new technologies and improving my skills.<br/>
 
-My skills :
+グレゴリです。フランス出身のソフトウェアエンジニアです。<br/>
+主に、ウェブアプリケーションを開発していますが、他の分野の開発に取り組むことができます。<br/>
+新しい技術を試してスキルを磨くのが好きです。<br/>
 
+### My tools :
+
+Front end : <br/>
+Backend : <br/>
+Databases : <br/>
+Cloud & DevOps : <br/>
+Others : <br/>
 <!--
 **Exhnil/exhnil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
