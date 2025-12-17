@@ -2,6 +2,10 @@
 
 ### Summary :
 
+Je suis Grégory, un ingénieur logiciel francais.<br/>
+Je travaille principalement sur des applications webs, mais suis aussi ouvert à d'autres champs de développement.<br/>
+J'apprécie apprendre et découvrir de nouvelles technologies, ainsi que d'améliorer mes compétences.<br/>
+
 I'm Gregory, a software engineer from France.<br/>
 I mostly work on web applications, but I'm also open to other areas of development.<br/>
 I enjoy trying new technologies and improving my skills.<br/>
